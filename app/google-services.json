@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "470385596102",
+    "project_id": "test-cc1fd",
+    "storage_bucket": "test-cc1fd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:470385596102:android:6d90151110b70176a469c7",
+        "android_client_info": {
+          "package_name": "com.bikram.firetest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "470385596102-kcigvf9fivlbqr42f35lhambmrjjeaqg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDht4xpyQlNz8_aBkDLOhEL2wq05w62nuA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "470385596102-kcigvf9fivlbqr42f35lhambmrjjeaqg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

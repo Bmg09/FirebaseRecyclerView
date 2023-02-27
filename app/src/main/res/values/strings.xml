@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">firetest</string>
+    <string-array name="Catogeries">
+        <item>Allopathic</item>
+        <item>Homoeopathic</item>
+        <item>Diabetic care</item>
+        <item>Personal care</item>
+        <item>skin care</item>
+    </string-array>
+    <string-array name="rxrequired">
+        <item>Yes</item>
+        <item>No</item>
+    </string-array>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
