@@ -169,7 +169,7 @@ public class MainActivity extends AppCompatActivity {
 //                                    ProductModel(String categories, String medname, String mfgname, String price, String mfgdate, String expdate, String meddescription,String fileurl)
                                     ProductModel productModel = new ProductModel(Category,MedName,MfgName,Price,MfgDate,ExpDate,MedDescription,rxrequired, url);
                                     String medInfo = databaseReference.push().getKey();
-                                    databaseReference.child(medInfo).setValue(productModel);
+                                    databaseReference.child(Category).child(medInfo).setValue(productModel);
                                 }
                             });
                         }
